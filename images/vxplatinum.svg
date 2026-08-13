@@ -1,66 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 148" width="900" height="148">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 96" width="640" height="96">
   <defs>
     <clipPath id="band-a">
-      <rect x="0" y="26" width="900" height="18">
-        <animate attributeName="y" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="26;16;60;102;38;26;26" keyTimes="0;0.82;0.86;0.90;0.94;0.97;1"/>
-        <animate attributeName="height" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="18;14;10;22;16;18;18" keyTimes="0;0.82;0.86;0.90;0.94;0.97;1"/>
+      <rect x="0" y="18" width="640" height="12">
+        <animate attributeName="y" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="18;12;34;8;26;42;14;30;10;22;38;16;20" keyTimes="0;0.08;0.16;0.24;0.32;0.40;0.48;0.56;0.64;0.72;0.80;0.88;1"/>
+        <animate attributeName="height" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="12;10;8;16;11;7;14;9;13;8;12;10;12" keyTimes="0;0.08;0.16;0.24;0.32;0.40;0.48;0.56;0.64;0.72;0.80;0.88;1"/>
       </rect>
     </clipPath>
     <clipPath id="band-b">
-      <rect x="0" y="70" width="900" height="14">
-        <animate attributeName="y" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="70;94;32;78;18;70;70" keyTimes="0;0.83;0.87;0.91;0.95;0.98;1"/>
-        <animate attributeName="height" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="14;20;12;8;18;14;14" keyTimes="0;0.83;0.87;0.91;0.95;0.98;1"/>
+      <rect x="0" y="44" width="640" height="10">
+        <animate attributeName="y" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="44;58;28;50;16;40;62;22;48;12;36;54;44" keyTimes="0;0.07;0.15;0.23;0.31;0.39;0.47;0.55;0.63;0.71;0.79;0.87;1"/>
+        <animate attributeName="height" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="10;14;8;6;13;9;11;7;15;10;8;12;10" keyTimes="0;0.07;0.15;0.23;0.31;0.39;0.47;0.55;0.63;0.71;0.79;0.87;1"/>
       </rect>
     </clipPath>
     <clipPath id="band-c">
-      <rect x="0" y="106" width="900" height="16">
-        <animate attributeName="y" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="106;48;116;24;88;106;106" keyTimes="0;0.84;0.88;0.92;0.96;0.99;1"/>
-        <animate attributeName="height" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="16;10;18;14;8;16;16" keyTimes="0;0.84;0.88;0.92;0.96;0.99;1"/>
+      <rect x="0" y="66" width="640" height="12">
+        <animate attributeName="y" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="66;32;70;18;54;8;62;40;74;24;50;14;66" keyTimes="0;0.09;0.17;0.25;0.33;0.41;0.49;0.57;0.65;0.73;0.81;0.89;1"/>
+        <animate attributeName="height" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="12;8;14;10;6;13;9;16;7;11;8;12;12" keyTimes="0;0.09;0.17;0.25;0.33;0.41;0.49;0.57;0.65;0.73;0.81;0.89;1"/>
       </rect>
     </clipPath>
   </defs>
 
-  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="92" font-weight="700" letter-spacing="0.04em" text-anchor="middle">
-    <text x="450" y="100" fill="#000000" stroke="#ffffff" stroke-width="1.5" paint-order="stroke fill">vxplatinum</text>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="52" font-weight="700" letter-spacing="0.04em" text-anchor="middle">
+    <text x="320" y="64" fill="#000000" stroke="#ffffff" stroke-width="1.1" paint-order="stroke fill">vxplatinum</text>
 
-    <text x="450" y="100" fill="#ff2a6d" opacity="0">
+    <text x="320" y="64" fill="#ff2a6d">
       vxplatinum
-      <animate attributeName="opacity" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="0;0;0.75;0.55;0.7;0;0" keyTimes="0;0.81;0.84;0.88;0.91;0.93;1"/>
-      <animateTransform attributeName="transform" type="translate" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="0 0; 0 0; -8 0; 6 1; -4 0; 0 0; 0 0" keyTimes="0;0.81;0.84;0.88;0.91;0.93;1"/>
+      <animate attributeName="opacity" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="0.55;0.7;0.35;0.8;0.45;0.65;0.25;0.75;0.5;0.7;0.4;0.6;0.55" keyTimes="0;0.08;0.16;0.24;0.32;0.40;0.48;0.56;0.64;0.72;0.80;0.88;1"/>
+      <animateTransform attributeName="transform" type="translate" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="-6 0; -9 0; 5 1; -7 0; 8 0; -4 1; 6 0; -8 0; 4 1; -5 0; 7 0; -6 0; -6 0" keyTimes="0;0.08;0.16;0.24;0.32;0.40;0.48;0.56;0.64;0.72;0.80;0.88;1"/>
     </text>
-    <text x="450" y="100" fill="#00e5ff" opacity="0">
+    <text x="320" y="64" fill="#00e5ff">
       vxplatinum
-      <animate attributeName="opacity" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="0;0;0.75;0.55;0.7;0;0" keyTimes="0;0.81;0.85;0.89;0.92;0.93;1"/>
-      <animateTransform attributeName="transform" type="translate" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="0 0; 0 0; 8 0; -6 -1; 5 0; 0 0; 0 0" keyTimes="0;0.81;0.85;0.89;0.92;0.93;1"/>
+      <animate attributeName="opacity" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="0.55;0.4;0.75;0.3;0.7;0.45;0.8;0.35;0.65;0.5;0.75;0.4;0.55" keyTimes="0;0.08;0.16;0.24;0.32;0.40;0.48;0.56;0.64;0.72;0.80;0.88;1"/>
+      <animateTransform attributeName="transform" type="translate" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="6 0; 8 0; -5 -1; 7 0; -6 0; 5 -1; -8 0; 4 0; -7 -1; 6 0; -4 0; 7 0; 6 0" keyTimes="0;0.08;0.16;0.24;0.32;0.40;0.48;0.56;0.64;0.72;0.80;0.88;1"/>
     </text>
   </g>
 
   <g clip-path="url(#band-a)">
-    <text x="450" y="100" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="92" font-weight="700" letter-spacing="0.04em" fill="#000000" stroke="#ffffff" stroke-width="1.5" paint-order="stroke fill">
+    <text x="320" y="64" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="52" font-weight="700" letter-spacing="0.04em" fill="#000000" stroke="#ffffff" stroke-width="1.1" paint-order="stroke fill">
       vxplatinum
-      <animateTransform attributeName="transform" type="translate" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="0 0; -16 0; 20 0; -10 0; 14 0; 0 0; 0 0" keyTimes="0;0.82;0.86;0.90;0.94;0.97;1"/>
+      <animateTransform attributeName="transform" type="translate" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="-10 0; 12 0; -8 0; 14 0; -11 0; 7 0; -13 0; 9 0; -6 0; 11 0; -14 0; 8 0; -10 0" keyTimes="0;0.08;0.16;0.24;0.32;0.40;0.48;0.56;0.64;0.72;0.80;0.88;1"/>
     </text>
   </g>
   <g clip-path="url(#band-b)">
-    <text x="450" y="100" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="92" font-weight="700" letter-spacing="0.04em" fill="#000000" stroke="#ffffff" stroke-width="1.5" paint-order="stroke fill">
+    <text x="320" y="64" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="52" font-weight="700" letter-spacing="0.04em" fill="#000000" stroke="#ffffff" stroke-width="1.1" paint-order="stroke fill">
       vxplatinum
-      <animateTransform attributeName="transform" type="translate" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="0 0; 18 0; -22 0; 8 0; -14 0; 0 0; 0 0" keyTimes="0;0.83;0.87;0.91;0.95;0.98;1"/>
+      <animateTransform attributeName="transform" type="translate" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="11 0; -13 0; 8 0; -9 0; 14 0; -7 0; 10 0; -12 0; 6 0; -14 0; 9 0; -8 0; 11 0" keyTimes="0;0.07;0.15;0.23;0.31;0.39;0.47;0.55;0.63;0.71;0.79;0.87;1"/>
     </text>
   </g>
   <g clip-path="url(#band-c)">
-    <text x="450" y="100" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="92" font-weight="700" letter-spacing="0.04em" fill="#000000" stroke="#ffffff" stroke-width="1.5" paint-order="stroke fill">
+    <text x="320" y="64" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="52" font-weight="700" letter-spacing="0.04em" fill="#000000" stroke="#ffffff" stroke-width="1.1" paint-order="stroke fill">
       vxplatinum
-      <animateTransform attributeName="transform" type="translate" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="0 0; -12 0; 16 0; -20 0; 10 0; 0 0; 0 0" keyTimes="0;0.84;0.88;0.92;0.96;0.99;1"/>
+      <animateTransform attributeName="transform" type="translate" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="-8 0; 10 0; -14 0; 6 0; -9 0; 13 0; -7 0; 11 0; -12 0; 8 0; -6 0; 14 0; -8 0" keyTimes="0;0.09;0.17;0.25;0.33;0.41;0.49;0.57;0.65;0.73;0.81;0.89;1"/>
     </text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" dur="3.2s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;0;1;0;1;0;1;0;0" keyTimes="0;0.81;0.83;0.85;0.86;0.88;0.90;0.92;0.94;0.97;1"/>
-    <rect x="148" y="40" width="22" height="10" fill="#000000"/>
-    <rect x="686" y="86" width="28" height="8" fill="#000000"/>
-    <rect x="412" y="56" width="12" height="12" fill="#000000"/>
-    <rect x="238" y="110" width="16" height="8" fill="#000000"/>
-    <rect x="574" y="34" width="10" height="10" fill="#ffffff"/>
-    <rect x="330" y="76" width="18" height="8" fill="#ffffff"/>
+  <g>
+    <animate attributeName="opacity" dur="0.85s" repeatCount="indefinite" calcMode="discrete" values="1;0;1;1;0;1;0;1;1;0;1;0;1" keyTimes="0;0.08;0.16;0.24;0.32;0.40;0.48;0.56;0.64;0.72;0.80;0.88;1"/>
+    <rect x="96" y="22" width="16" height="7" fill="#000000"/>
+    <rect x="488" y="54" width="20" height="6" fill="#000000"/>
+    <rect x="292" y="34" width="8" height="8" fill="#000000"/>
+    <rect x="168" y="70" width="12" height="6" fill="#000000"/>
+    <rect x="404" y="18" width="7" height="7" fill="#ffffff"/>
+    <rect x="232" y="48" width="13" height="6" fill="#ffffff"/>
   </g>
 </svg>

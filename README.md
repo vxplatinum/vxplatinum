@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="images/vxplatinum.svg" alt="vxplatinum" width="680" />
+  <img src="images/vxplatinum.svg" alt="vxplatinum" width="420" />
 
   <br />
   <br />
 
   <a href="https://t.me/vxdosick">Telegram</a>
   &nbsp;·&nbsp;
-  <a href="mailto:vxxplatinum@gmail.com">Email</a>
+  <a href="mailto:vxxplatinum@gmail.com">vxxplatinum@gmail.com</a>
 
   <br />
   <br />
