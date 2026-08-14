@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/vxplatinum.svg" alt="vxplatinum" width="420" />
+  <img src="images/vxplatinum-v2.svg" alt="vxplatinum" width="420" />
 
   <br />
   <br />
