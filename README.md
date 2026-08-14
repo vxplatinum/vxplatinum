@@ -22,12 +22,19 @@
 
   <table>
     <tr>
-      <td align="center" valign="top">
-        <img src="images/react.svg" alt="Atomic AI Bot" width="240" height="240" />
+      <td align="center" valign="top" width="50%">
+        <img src="images/atomicaibot.png" alt="Atomic AI Bot" width="240" height="240" />
         <br /><br />
         <strong>Atomic AI Bot</strong>
         <br />
         Web app – coming soon
+      </td>
+      <td align="center" valign="top" width="50%">
+        <img src="images/ytmp3.png" alt="YT to MP3" width="240" height="240" />
+        <br /><br />
+        <strong>YT to MP3</strong>
+        <br />
+        For personal use only.
       </td>
     </tr>
   </table>
