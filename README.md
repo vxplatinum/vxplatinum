@@ -37,6 +37,15 @@
         For personal use only.
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <img src="images/resumescanai.svg" alt="Resume Scan AI" width="240" height="240" />
+        <br /><br />
+        <strong>Resume Scan AI</strong>
+        <br />
+        Perfect for recruiters.
+      </td>
+    </tr>
   </table>
 
   <br />
