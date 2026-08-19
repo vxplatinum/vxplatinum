@@ -25,24 +25,22 @@
 
   <table>
     <tr>
-      <td align="center" valign="top" width="50%">
-        <img src="images/atomicaibot.png" alt="Atomic AI Bot" width="240" height="240" />
+      <td align="center" valign="top" width="33%">
+        <img src="images/atomicaibot.png" alt="Atomic AI Bot" width="160" height="160" />
         <br /><br />
         <strong>Atomic AI Bot</strong>
         <br />
         Web app – coming soon
       </td>
-      <td align="center" valign="top" width="50%">
-        <img src="images/ytmp3.png" alt="YT to MP3" width="240" height="240" />
+      <td align="center" valign="top" width="33%">
+        <img src="images/ytmp3.png" alt="YT to MP3" width="160" height="160" />
         <br /><br />
         <strong>YT to MP3</strong>
         <br />
         For personal use only.
       </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <img src="images/resumescanai.svg" alt="Resume Scan AI" width="240" height="240" />
+      <td align="center" valign="top" width="33%">
+        <img src="images/resumescanai.svg" alt="Resume Scan AI" width="160" height="160" />
         <br /><br />
         <strong>Resume Scan AI</strong>
         <br />
@@ -58,23 +56,7 @@
   </p>
 
   <p align="center" style="font-size: 14px; line-height: 1.8;">
-    <sub>Backend</sub><br />
-    <strong>Python · FastAPI · Uvicorn · Node.js · Express · SQLAlchemy · Pydantic</strong>
-    <br /><br />
-    <sub>Frontend</sub><br />
-    <strong>HTML · CSS · Tailwind CSS · React · TypeScript</strong>
-    <br /><br />
-    <sub>Databases</sub><br />
-    <strong>PostgreSQL · Redis · SQLite · MongoDB</strong>
-    <br /><br />
-    <sub>Telegram</sub><br />
-    <strong>python-telegram-bot · Pyrogram</strong>
-    <br /><br />
-    <sub>AI</sub><br />
-    <strong>OpenAI · Grok · OpenRouter · Cursor · Claude Code · GitHub Copilot</strong>
-    <br /><br />
-    <sub>Tools</sub><br />
-    <strong>Docker · uv · Git · GitHub · Render · Stripe · ngrok · Google Colab · Google Drive · Google Analytics · Cloudflare Analytics</strong>
+    <strong>Python · FastAPI · Uvicorn · Node.js · Express · SQLAlchemy · Pydantic · HTML · CSS · Tailwind CSS · React · TypeScript · PostgreSQL · Redis · SQLite · MongoDB · python-telegram-bot · Pyrogram · OpenAI · Grok · OpenRouter · Cursor · Claude Code · GitHub Copilot · Docker · uv · Git · GitHub · Render · Stripe · ngrok · Google Colab · Google Drive · Google Analytics · Cloudflare Analytics</strong>
   </p>
 
   <br />
