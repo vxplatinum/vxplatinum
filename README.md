@@ -9,7 +9,7 @@
   &nbsp;·&nbsp;
   <a href="mailto:vxxplatinum@gmail.com">vxxplatinum@gmail.com</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/vadym-foteniuk-423a53318/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/vadym-foteniuk">LinkedIn</a>
 
   <br />
   <br />
