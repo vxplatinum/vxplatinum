@@ -23,28 +23,35 @@
 
   <br />
 
-  <table>
+  <table cellpadding="12">
     <tr>
-      <td align="center" valign="top" width="33%">
-        <img src="images/atomicaibot.png" alt="Atomic AI Bot" width="160" height="160" />
+      <td align="center" valign="top" width="25%">
+        <img src="images/atomicaibot.png" alt="Atomic AI Bot" width="130" height="130" />
         <br /><br />
         <strong>Atomic AI Bot</strong>
         <br />
         Web app – coming soon
       </td>
-      <td align="center" valign="top" width="33%">
-        <img src="images/ytmp3.png" alt="YT to MP3" width="160" height="160" />
+      <td align="center" valign="top" width="25%">
+        <img src="images/ytmp3.png" alt="YT to MP3" width="130" height="130" />
         <br /><br />
         <strong>YT to MP3</strong>
         <br />
         For personal use only.
       </td>
-      <td align="center" valign="top" width="33%">
-        <img src="images/resumescanai.svg" alt="Resume Scan AI" width="160" height="160" />
+      <td align="center" valign="top" width="25%">
+        <img src="images/resumescanai.svg" alt="Resume Scan AI" width="130" height="130" />
         <br /><br />
         <strong>Resume Scan AI</strong>
         <br />
         Perfect for recruiters.
+      </td>
+      <td align="center" valign="top" width="25%">
+        <img src="images/beatartlogo.png" alt="Beat Art AI" width="130" height="130" />
+        <br /><br />
+        <strong>Beat Art AI</strong>
+        <br />
+        Perfect for musicians and sound producers.
       </td>
     </tr>
   </table>
